@@ -36,7 +36,7 @@ For the model evaluation, we are using ROUGE score.
 
 **Figure 1:** Text Summary
 
-![Project Image](C:\Users\mayan\OneDrive\Desktop\NLP_DSTI.png)
+![Project Image]([C:\Users\mayan\OneDrive\Desktop\NLP_DSTI.png](https://github.com/mayankbhandari10/Deep-Learning-DSTI-Project/blob/DataEngineer/NLP_DSTI.png)
 
 ### 5.2 Key Findings
 The `google/pegasus-cnn dailymail` model consistently produced coherent and relevant summaries across a diverse set of input texts, as evidenced by the robust ROUGE scores.
