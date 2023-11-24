@@ -3,6 +3,7 @@
 ## Authors
 - Mayank Bhandari
 - Ouc-Houang Fogoum Philippe Jacques
+- Ramesh Singh
 
 ## Date
 November 23, 2023
@@ -12,6 +13,10 @@ Text summarization is a crucial aspect of natural language processing, aiming to
 
 ## 2. Objective
 The primary goal of the project was to automatically generate concise and coherent summaries for given texts using the abstractive summarization capabilities of the selected model.
+
+## DataSet
+Sammsum Dataset
+https://huggingface.co/datasets/samsum
 
 ## 3. Methodology
 ### 3.1 Model Selection
