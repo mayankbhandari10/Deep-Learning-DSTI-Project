@@ -15,7 +15,7 @@ Text summarization is a crucial aspect of natural language processing, aiming to
 The primary goal of the project was to automatically generate concise and coherent summaries for given texts using the abstractive summarization capabilities of the selected model.
 
 ## DataSet
-Sammsum Dataset
+Samsum Dataset
 https://huggingface.co/datasets/samsum
 
 ## 3. Methodology
